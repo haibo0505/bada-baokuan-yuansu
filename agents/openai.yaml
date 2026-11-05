@@ -1,0 +1,4 @@
+interface:
+  display_name: "八大爆款元素"
+  short_description: "用成本、人群、奇葩、最差、头牌、荷尔蒙、反差、怀旧改造选题与短视频脚本"
+  default_prompt: "使用 $bada-baokuan-yuansu，为我的产品生成五个选题，标注元素组合，并展开最优选题的完整分镜。"
